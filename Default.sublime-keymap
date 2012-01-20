@@ -1,0 +1,5 @@
+[
+    { "keys": ["super+alt+x]"], "command": "phpcs" },
+    { "keys": ["super+alt+s]"], "command": "symfony" },
+    { "keys": ["super+alt+m]"], "command": "phpmd" }
+]
