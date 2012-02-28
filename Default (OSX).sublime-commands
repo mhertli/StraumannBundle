@@ -1,0 +1,9 @@
+[
+	{
+        "caption": "Straumann: PHP CodeSniffer",
+        "command": "phpcs", "args":
+        {
+            "platform": "OSX"
+        }
+    }
+]
